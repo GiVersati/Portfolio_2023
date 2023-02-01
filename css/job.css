@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=PT+Sans&display=swap');
+
+
+
+.apresentacao__habilidades{
+    padding:25px;
+   
+    
+}
+.apresentaca__conteudo__subtitulo{
+    font-family: 'Lora', serif;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: 400;
+
+}
+
+.apresentacao__habilidades__lista{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+   
+   
+}
+
+.apresentacao__conteudo__titulo{
+    padding:5% 15%;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apresentacao__habilidades__lista:hover{
+    color:#DB7093;
+    cursor: pointer;
+}
